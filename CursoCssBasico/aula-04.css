@@ -1,5 +1,5 @@
 /*
-Padding e o espacamento externo
+Padding e o espacamento interno
 */
 #exemplo{
     background-color: #f1e9e9;
@@ -8,7 +8,7 @@ Padding e o espacamento externo
     padding: 20px 10px 30px 30px;
 }
 /*
-Margin e o espacamento interno
+Margin e o espacamento externo
 */
 #exemplo2{
     background-color: #c3c5e9;
