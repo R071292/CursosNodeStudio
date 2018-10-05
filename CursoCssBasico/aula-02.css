@@ -1,0 +1,25 @@
+/*
+Seletor class
+e definido por um ponto .
+*/
+.texto-principal{
+    color: #c41313;
+    text-align: center;
+}
+
+.fundo-principal{
+    background-color: #a6b49b;
+    padding: 20px;
+
+}
+
+/*
+Seletor id
+e definido por uma #
+*/
+
+#conteudo{
+    background-color: #000099;
+    padding: 20px;
+    color: #fff
+}
